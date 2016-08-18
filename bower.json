@@ -1,0 +1,17 @@
+{
+    "name": "volkhov-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/volkhov-bower.git"
+    },
+    "description": "Volkhov font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
